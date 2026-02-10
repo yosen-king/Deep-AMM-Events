@@ -145,18 +145,7 @@ Config files are in `config/`:
 └── otd_cal.py               # Optimal Transport Distance calculation
 ```
 
-## Citation
 
-If you find this work useful, please cite:
-
-```bibtex
-@inproceedings{jia2026towards,
-  title={Towards Event-Aware Forecasting in DeFi: Insights from On-chain Automated Market Maker Protocols},
-  author={Jia, Huaiyu and You, Jiehshun and Luo, Yizhi and Liu, Jingyu and Sun, Shuo},
-  booktitle={Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining},
-  year={2026}
-}
-```
 
 ## Acknowledgments
 
