@@ -1,10 +1,5 @@
 # Deep-AMM-Events
 
-> **Towards Event-Aware Forecasting in DeFi: Insights from On-chain Automated Market Maker Protocols**
->
-> Huaiyu Jia, Jiehshun You, Yizhi Luo, Jingyu Liu, Shuo Sun
->
-> *KDD 2026*
 
 ## Overview
 
